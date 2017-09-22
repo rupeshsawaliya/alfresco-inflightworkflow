@@ -1,0 +1,6 @@
+<webscript>
+    <shortname>In-Flight Workflows</shortname>
+    <description>This dashlet will show all the active workflows and their active tasks.</description>
+    <family>dashlet</family>
+    <url>/etpl/inflightworkflows</url>
+</webscript>

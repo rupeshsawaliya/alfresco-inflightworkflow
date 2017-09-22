@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Execute query Webscript</shortname>
+	<description>return result based in query</description>
+	<url>/get-all-active-workflows</url>
+	<authentication>user</authentication>
+	<format default="json"></format>
+</webscript>
